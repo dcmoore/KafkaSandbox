@@ -1,0 +1,13 @@
+target/
+build/
+out/
+test-output/
+
+*.class
+*.iml
+*.ipr
+*.iws
+*.swp
+.idea
+.classpath
+.project
